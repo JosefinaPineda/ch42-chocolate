@@ -1,0 +1,22 @@
+/* CSS type selector */
+body {
+    background-color: rgb(99, 8, 71);
+    color: rgb(95, 94, 39);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: #190681;
+    color: #BFA9EA; 
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* CSS typer selector: pseudo class selector */
+button:hover{
+background-color: #008EB4;
+}
+h1{
+    color: #BFA9E3;
+    font-family: cursive;
+}
